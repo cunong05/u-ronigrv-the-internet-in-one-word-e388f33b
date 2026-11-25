@@ -1,0 +1,1 @@
+{"description":"The Internet in One Word — one word for the whole internet (make.fun bounty).","license":"MIT","main":"main.ts","name":"u-ronigrv-the-internet-in-one-word-e388f33b","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
